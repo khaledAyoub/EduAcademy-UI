@@ -37,7 +37,7 @@ https://edu-academy-brown.vercel.app/
 ## 📸 App Preview
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1OdtOHBgF3jZa-wyEXyJi7R34MeXQw2tB" width="40%" />
+  <img src="https://drive.google.com/uc?export=view&id=1OdtOHBgF3jZa-wyEXyJi7R34MeXQw2tB" width="70%" />
 </p>
 
 ---
